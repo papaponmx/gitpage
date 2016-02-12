@@ -20,7 +20,7 @@ body {
     overflow: hidden;
     -webkit-animation: type 7s steps(50, end);
     animation-delay: 5s;
-    animation: type 7s steps(3, end); }
+    animation: type 7s steps(50, end); }
 
 @keyframes type {
   from {
